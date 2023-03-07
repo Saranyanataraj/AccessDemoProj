@@ -2,7 +2,7 @@
 <TestCaseEntity>
    <description></description>
    <name>New Test Case</name>
-   <tag>addingtag</tag>
+   <tag></tag>
    <comment></comment>
    <testCaseGuid>27c6386a-30b0-4ca8-8301-9570fba41822</testCaseGuid>
    <variableLinks>
@@ -18,14 +18,14 @@
       <variableId>f3cc42da-e9b9-4390-ba8b-7bb51923bdbf</variableId>
    </variableLinks>
    <variable>
-      <defaultValue>''</defaultValue>
+      <defaultValue>GlobalVariable.G_userName</defaultValue>
       <description></description>
       <id>5d9479c2-fb73-4021-a056-361c081268c4</id>
       <masked>false</masked>
       <name>username</name>
    </variable>
    <variable>
-      <defaultValue>''</defaultValue>
+      <defaultValue>GlobalVariable.G_Password</defaultValue>
       <description></description>
       <id>f3cc42da-e9b9-4390-ba8b-7bb51923bdbf</id>
       <masked>false</masked>
