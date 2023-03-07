@@ -1,0 +1,9 @@
+/.settings/
+/.classpath
+.svn/
+/Reports/
+/Test Cases/WIP/
+/ExtentReports/
+.cache/
+/bin/
+/Libs/

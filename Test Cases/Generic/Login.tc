@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Login</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ae9b1cc5-ad48-47a7-92ac-8b0d2102c4b5</testCaseGuid>
+   <variable>
+      <defaultValue>GlobalVariable.G_userName</defaultValue>
+      <description></description>
+      <id>b1991935-fee5-4bd6-93ef-69d926d426ff</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>GlobalVariable.G_Password</defaultValue>
+      <description></description>
+      <id>c9f306f6-7b79-4ccf-bf72-96287dd25fce</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>
