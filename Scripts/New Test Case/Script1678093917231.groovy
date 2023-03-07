@@ -28,3 +28,5 @@ WebUI.setEncryptedText(findTestObject('Object Repository/Page_Login-Altair Acces
 
 WebUI.click(findTestObject('Object Repository/Page_Login-Altair Access/input_concat(id(, , loginbtn, , ))_loginbtn'))
 
+WebUI.verifyElementPresent(findTestObject('GenericObjects/TitleLink_Files'), 10)
+
